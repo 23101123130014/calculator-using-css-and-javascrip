@@ -23,6 +23,6 @@ catch(error)
 
 function cleardisplay()
 {
-getElementById('display').innerHTML = " ";
+display.value = " ";
 }
-window.alert("calculator");
+alert("caluclator");
